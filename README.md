@@ -1,7 +1,7 @@
 # AI model for classifying Cell lines using from DIH micrograph
-about AI algorithm using DIH, as a part of the paper https://www.mdpi.com/2079-6374/12/3/144 
+This work is a partial part of the paper(only the Denoising and classification) https://www.mdpi.com/2079-6374/12/3/144 
 
-Instruction to use the file:
+However, the auto segmentation function demonstrated here is not the part of the paper.
 
 [1] Load the Cell_Line_classification.ipynb in Google colab
 
