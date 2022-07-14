@@ -3,7 +3,8 @@ This work is a partial part of the paper(only the Denoising and classification) 
 
 However, the auto segmentation function demonstrated here is not the part of the paper.
 
-#Instructions:
+# Instructions:
+
 [1] Load the Cell_Line_classification.ipynb in Google colab
 
 [2] Download the data.zip file and upload in the google colab (using file explorer tab in google colab)
